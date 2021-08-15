@@ -2,7 +2,7 @@
   "name": "binance-api-node",
   "version": "0.11.10",
   "description": "A node API wrapper for Binance",
-  "main": "dist",
+  "main": "dist/index.js",
   "files": [
     "dist",
     "index.d.ts"
